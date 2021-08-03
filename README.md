@@ -63,7 +63,7 @@ _Na pasta "site":_
 ![Imagem](https://github.com/lfboaventura/bemolprospect/anexos/bemol.gif)
 
 ### Observações
-* **Respostas** para as perguntas em /anexos/respostas.txt, **diagramas c4** em /anexos/c4 diagrama da visão arquitetural da infraestrutura.png e /anexos/c4 diagrama design da solução.png
+* **Diagramas c4** em /anexos/c4 diagrama da visão arquitetural da infraestrutura.png e /anexos/c4 diagrama design da solução.png
  
 ### Melhorias
 * não foram adicionados alguns mascaras e validações de campos como CPF e RG;
