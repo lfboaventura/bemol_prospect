@@ -1,5 +1,3 @@
-![Imagem](https://github.com/lfboaventura/bemolprospect/site/src/assets/bemol.png)
-
 
 ## Bemol Prospect
 
@@ -60,10 +58,11 @@ _Na pasta "site":_
 
 
 ### Telas
-![Imagem](https://github.com/lfboaventura/bemolprospect/anexos/bemol.gif)
+![Imagem](https://github.com/lfboaventura/bemol_prospect/blob/master/anexos/telas_desafio_bemol.gif)
 
 ### Observações
-* **Diagramas c4** em /anexos/c4 diagrama da visão arquitetural da infraestrutura.png e /anexos/c4 diagrama design da solução.png
+* **Diagramas c4** em /anexos/c4 diagrama da visão arquitetural da infraestrutura.png e /anexos/c4 diagrama design da solução.png, dos quais foram feitos em exeplos disponibilizados em [c4model](https://c4model.com/) sem conhecimento prévio.
+
  
 ### Melhorias
 * não foram adicionados alguns mascaras e validações de campos como CPF e RG;
